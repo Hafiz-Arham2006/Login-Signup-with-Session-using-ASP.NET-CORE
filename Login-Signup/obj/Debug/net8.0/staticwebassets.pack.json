@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\common\\extend.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\extend.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\common\\fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\fonts.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\common\\global.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\global.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\common\\minxi.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\minxi.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\common\\variables.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\variables.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\layouts\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\layouts\\main.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\layouts\\responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\layouts\\responsive.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Work\\ASP.NET CORE\\Lgoin Signup\\Login-Signup\\Login-Signup\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Login-Signup.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Login-Signup.props",
+      "PackagePath": "build\\Login-Signup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Login-Signup.props",
+      "PackagePath": "buildMultiTargeting\\Login-Signup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Login-Signup.props",
+      "PackagePath": "buildTransitive\\Login-Signup.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
